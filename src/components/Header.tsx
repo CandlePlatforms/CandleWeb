@@ -7,7 +7,7 @@ import { Link } from 'react-scroll';
 import config from '../config/index.json';
 
 const Menu = () => {
-  const { navigation, company, callToAction } = config;
+  const { navigation, navigationExternal, company, callToAction } = config;
   const { name: companyName, logo } = company;
 
   return (
@@ -57,6 +57,15 @@ const Menu = () => {
                 >
                   {item.name}
                 </Link>
+              ))}
+              {navigationExternal.map((item) => (
+                  <a
+                    key={item.name}
+                    href={item.href}
+                    className="font-medium text-gray-500 hover:text-gray-900"
+                  >
+                    {item.name}
+                  </a>
               ))}
               <a
                 href="#"

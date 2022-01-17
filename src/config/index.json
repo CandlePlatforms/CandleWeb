@@ -13,6 +13,16 @@
       "href": "about"
     }
   ],
+  "navigationExternal": [
+    {
+      "name": "Roadmap",
+      "href": "https://roadmap.candlelabs.org"
+    },
+    {
+      "name": "Docs",
+      "href": "https://docs.candlelabs.org"
+    }
+  ],
   "callToAction": {
     "text": "Private Beta. Coming Soon!",
     "href": "#"

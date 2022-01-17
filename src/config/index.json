@@ -14,7 +14,7 @@
     }
   ],
   "callToAction": {
-    "text": "CNDL App",
+    "text": "Private Beta. Coming Soon!",
     "href": "#"
   },
   "mainHero": {
@@ -50,22 +50,22 @@
       {
         "name": "Candle Cemetery",
         "description": "Comprised of Land, buyable and owned as NFT's, in the Candle Metaverse. Purchase via opensea.  ",
-        "icon": "/assets/images/react.png"
+        "icon": "/assets/images/logo.svg"
       },
       {
         "name": "Candle Communities",
         "description": "Enabling users to be able to create and manage their own spiritual organization on the decentralized blockchain",
-        "icon": "/assets/images/tailwindcss.svg"
+        "icon": "/assets/images/logo.svg"
       },
       {
         "name": "Candle Core",
         "description": "A suite of tools and functions that mimic real-world spiritual actions, allowing for remote and simple spiritual worship ",
-        "icon": "/assets/images/nextjs.svg"
+        "icon": "/assets/images/logo.svg"
       },
       {
         "name": "Candle Crossroads",
         "description": "A simple, free DEX",
-        "icon": "/assets/images/ts.png"
+        "icon": "/assets/images/logo.svg"
       }
     ]
   },

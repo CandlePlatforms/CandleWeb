@@ -1,0 +1,79 @@
+{
+  "company": {
+    "name": "Candle",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Product",
+      "href": "product"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "CNDL App",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Candle",
+    "subtitle": "Decentralized Religion",
+    "description": "",
+    "img": "/assets/images/candles.png",
+    "primaryAction": {
+      "text": "CNDL App",
+      "href": "#"
+    }
+  },
+  "product": {
+    "title": "Candle",
+    "items": [
+      {
+        "title": "Confession",
+        "description": "Burn Candle and store your confession, remourse, or regret on the blockchain - forever",
+        "img": "/assets/images/pray.jpg"
+      },
+      {
+        "title": "Stake",
+        "description": "Stake your Candle to for more candles to burn",
+        "img": "/assets/images/many-candles.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "CANDLE NETWORK",
+    "subtitle": "Staking is now live!",
+    "description": "While Candle is in private beta, we've unlocked staking and LP Mining for early users to generate high yield (APY) while waiting for public beta launch.",
+    "items": [
+      {
+        "name": "Candle Cemetery",
+        "description": "Comprised of Land, buyable and owned as NFT's, in the Candle Metaverse. Purchase via opensea.  ",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Candle Communities",
+        "description": "Enabling users to be able to create and manage their own spiritual organization on the decentralized blockchain",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Candle Core",
+        "description": "A suite of tools and functions that mimic real-world spiritual actions, allowing for remote and simple spiritual worship ",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Candle Crossroads",
+        "description": "A simple, free DEX",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "about": {
+    "socialMedia": {
+      "github": "https://github.com/CandlePlatforms",
+      "twitter": "https://twitter.com/Candle_Labs ",
+      "discord": "https://discord.gg/candle"
+    }
+  }
+}

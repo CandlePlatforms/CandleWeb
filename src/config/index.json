@@ -26,12 +26,12 @@
     }
   ],
   "callToAction": {
-    "text": "CNDL App (Coming Soon!)",
+    "text": "Join Beta (Coming Soon!)",
     "href": ""
   },
   "mainHero": {
     "title": "Candle",
-    "subtitle": "Decentralized Religion",
+    "subtitle": "Decentralizing Religion",
     "description": "",
     "img": "/assets/images/candles.png",
     "primaryAction": {

@@ -5,29 +5,21 @@
   },
   "navigation": [
     {
+      "name": "Product",
+      "href": "product"
+    },
+    {
       "name": "About",
       "href": "about"
-    },
-    {
-      "name": "Vote",
-      "href": "https://vote.candlelabs.org"
-    },
-    {
-      "name": "Feature Requests",
-      "href": "https://roadmap.candlelabs.org"
-    },
-    {
-      "name": "Developer Docs",
-      "href": "https://docs.candlelabs.org"
-    },
+    }
   ],
   "callToAction": {
-    "text": "Join Beta (Coming Soon!)",
-    "href": ""
+    "text": "CNDL App",
+    "href": "#"
   },
   "mainHero": {
     "title": "Candle",
-    "subtitle": "Decentralizing Religion",
+    "subtitle": "Decentralized Religion",
     "description": "",
     "img": "/assets/images/candles.png",
     "primaryAction": {

@@ -5,12 +5,8 @@
   },
   "navigation": [
     {
-      "name": "About",
-      "href": "features"
-    },
-    {
       "name": "Vote",
-      "href": "https://vote.candlelabs.org"
+      <a> "href": "https://vote.candlelabs.org" </a>
     },
     {
       "name": "Feature Requests",

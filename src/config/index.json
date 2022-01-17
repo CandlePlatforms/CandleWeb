@@ -11,15 +11,15 @@
     {
       "name": "Vote",
       "href": "https://vote.candlelabs.org"
-    }
+    },
     {
       "name": "Feature Requests",
       "href": "https://roadmap.candlelabs.org"
-    }
+    },
     {
       "name": "LP Mining (Dodo)",
       "href": "https://app.dodoex.io/mining?network=polygon&address=0x40f394d3df1f312a1ddbd6e86779d96e69324618&side=base&ivc=0x546D090bbcEC3d96903d41e38C3436c1C601AF9c"
-    }
+    },
   ],
   "callToAction": {
     "text": "CNDL App (Coming Soon!)",

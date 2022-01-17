@@ -5,8 +5,8 @@
   },
   "navigation": [
     {
-      "name": "Product",
-      "href": "product"
+      "name": "Latest",
+      "href": "features"
     },
     {
       "name": "About",

@@ -107,7 +107,7 @@ const Menu = () => {
                 </div>
               </div>
               <div className="px-2 pt-2 pb-3 space-y-1">
-                {navigation.map((item) => (
+                {navigation.concat(navigationExternal).map((item) => (
                   <a
                     key={item.name}
                     href={item.href}

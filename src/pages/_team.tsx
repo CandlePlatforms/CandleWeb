@@ -9,7 +9,7 @@ import Canvas from '../components/Canvas';
 const Team = () => {
   return (
 
-      </div>
+      <div>
       <LazyShow>
         <>
           <Canvas />

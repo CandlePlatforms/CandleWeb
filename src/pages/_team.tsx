@@ -1,6 +1,6 @@
 import React from 'react';
 
-import '../styles/main.css';
+import '../styles/team.css';
 
 
 import Canvas from '../components/Canvas';
@@ -16,7 +16,7 @@ const Team = () => {
         </>
       </LazyShow>
 
-        
+
     </div>
   );
 };

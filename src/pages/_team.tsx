@@ -34,11 +34,6 @@ const Team = () => {
           <Features />
         </>
       </LazyShow> */}
-      <LazyShow>
-        <>
-          <About />
-        </>
-      </LazyShow>
       <Analytics />
     </div>
   );

@@ -12,6 +12,10 @@
       "name": "About",
       "href": "about"
     }
+    {
+      "name": "Team",
+      "href": "Team"
+    }
   ],
   "navigationExternal": [
     {
@@ -29,7 +33,7 @@
   },
   "mainHero": {
     "title": "Candle",
-    "subtitle": "Decentralize Religion",
+    "subtitle": "Decentralized Religion",
     "description": "",
     "img": "/assets/images/candles.png",
     "primaryAction": {

@@ -6,7 +6,7 @@
   "navigation": [
     {
       "name": "Home",
-      "href": "index"
+      "href": "/src/pages/_app.tsx"
     },
     {
       "name": "Latest",
@@ -14,7 +14,7 @@
     },
     {
       "name": "Team",
-      "href": "/Team"
+      "href": "/src/pages/_team.tsx"
     }
   ],
   "navigationExternal": [

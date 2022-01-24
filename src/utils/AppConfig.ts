@@ -1,6 +1,6 @@
 export const AppConfig = {
-  site_name: 'Candle Platforms',
+  site_name: 'Candle Labs',
   title: 'Candle',
-  description: 'Candle Platforms Landing Page',
+  description: 'Decentralized Religion, In the New Metaverse',
   locale: 'en',
 };

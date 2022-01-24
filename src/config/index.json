@@ -29,16 +29,16 @@
   ],
   "callToAction": {
     "text": "Private Beta. Coming Soon!",
-    "href": "#"
+    "href": "https://staking.candlelabs.org"
   },
   "mainHero": {
     "title": "Candle",
     "subtitle": "Decentralized Religion",
-    "description": "",
+    "description": "Staking Live",
     "img": "/assets/images/candles.png",
     "primaryAction": {
       "text": "Join Beta (Coming Soon)",
-      "href": "#"
+      "href": "https://staking.candlelabs.org"
     }
   },
   "product": {

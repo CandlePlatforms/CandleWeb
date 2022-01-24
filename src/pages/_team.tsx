@@ -5,6 +5,7 @@ import '../styles/main.css';
 import About from '../components/About';
 import Analytics from '../components/Analytics';
 import Header from '../components/Header';
+import Canvas from '../components/Canvas';
 import LazyShow from '../components/LazyShow';
 import MainHero from '../components/MainHero';
 import MainHeroImage from '../components/MainHeroImage';
@@ -28,11 +29,11 @@ const Team = () => {
           <Analytics />
         </>
       </LazyShow>
-      {/* <LazyShow>
+      <LazyShow>
         <>
-          <Features />
+          <Canvas />
         </>
-      </LazyShow> */}
+      </LazyShow> 
       <LazyShow>
         <>
           <About />

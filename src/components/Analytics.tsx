@@ -25,6 +25,7 @@ const App = () => {
         strategy="afterInteractive"
         src={`https://www.googletagmanager.com/gtag/js?id=${gtag.GA_TRACKING_ID}`}
       />
+       <Script> gtag('event', 'conversion', {'send_to': 'AW-10843745825/g5LgCKrA0ZIDEKHc2bIo'}); </Script>
       <Script
         id="gtag-init"
         strategy="afterInteractive"
@@ -41,6 +42,7 @@ const App = () => {
       />
       <Script async src={GA_ADS_ID} crossOrigin="anonymous" />
     </>
+   
   );
 };
 

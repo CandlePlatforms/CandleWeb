@@ -19,6 +19,7 @@ export const event = ({
   category,
   label,
   value,
+  conversion,
 }: {
   action: any;
   category: any;
@@ -31,6 +32,11 @@ export const event = ({
     value,
   });
 };
+
+//<!-- Event snippet for Website traffic conversion page -->
+//<script>
+//gtag('event', 'conversion', {'send_to': 'AW-10843745825/g5LgCKrA0ZIDEKHc2bIo'});
+//</script>
 
 
 //<!-- Global site tag (gtag.js) - Google Analytics -->

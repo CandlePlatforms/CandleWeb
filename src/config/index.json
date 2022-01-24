@@ -11,10 +11,6 @@
     {
       "name": "Latest",
       "href": "features"
-    },
-    {
-      "name": "Team",
-      "href": "/src/pages/_team.tsx"
     }
   ],
   "navigationExternal": [
@@ -25,19 +21,23 @@
     {
       "name": "Docs",
       "href": "https://docs.candlelabs.org"
+    },
+    {
+      "name": "Governance",
+      "href": "https://vote.candlelabs.org"
     }
   ],
   "callToAction": {
-    "text": "Private Beta. Coming Soon!",
+    "text": "Stake Now",
     "href": "https://staking.candlelabs.org"
   },
   "mainHero": {
     "title": "Candle",
     "subtitle": "Decentralized Religion",
-    "description": "Staking Live",
+    "description": "Building Religion & Spirituality into the Growing Metaverse",
     "img": "/assets/images/candles.png",
     "primaryAction": {
-      "text": "Join Beta (Coming Soon)",
+      "text": "Stake Now",
       "href": "https://staking.candlelabs.org"
     }
   },

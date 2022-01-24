@@ -19,7 +19,6 @@ export const event = ({
   category,
   label,
   value,
-  conversion,
 }: {
   action: any;
   category: any;

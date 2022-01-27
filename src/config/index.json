@@ -5,10 +5,6 @@
   },
   "navigation": [
     {
-      "name": "Home",
-      "href": "/src/pages/_app.tsx"
-    },
-    {
       "name": "Latest",
       "href": "features"
     }
@@ -28,8 +24,8 @@
     }
   ],
   "callToAction": {
-    "text": "Stake Now",
-    "href": "https://staking.candlelabs.org"
+    "text": "Join Crowdsale",
+    "href": "https://app.dodoex.io/cp/join/0xc33a5909da19e87732e209497956d5a7385de448?network=polygon&ivc=0x546D090bbcEC3d96903d41e38C3436c1C601AF9c"
   },
   "mainHero": {
     "title": "Candle",
@@ -37,8 +33,8 @@
     "description": "Building Religion & Spirituality into the Growing Metaverse",
     "img": "/assets/images/stairs.jpeg",
     "primaryAction": {
-      "text": "Stake Now",
-      "href": "https://staking.candlelabs.org"
+      "text": "Join Crowdsale",
+      "href": "https://app.dodoex.io/cp/join/0xc33a5909da19e87732e209497956d5a7385de448?network=polygon&ivc=0x546D090bbcEC3d96903d41e38C3436c1C601AF9c"
     }
   },
   "product": {
@@ -58,8 +54,8 @@
   },
   "features": {
     "title": "CANDLE NETWORK",
-    "subtitle": "Staking is now live!",
-    "description": "While Candle is in private beta, we've unlocked staking and LP Mining for early users to generate high yield (APY) while waiting for public beta launch.",
+    "subtitle": "Crowdsale is now live!",
+    "description": "While Candle is in private beta, we've started the first of two public crowdsales (on dodo DEX via polygon network) as well as unlocked staking and LP Mining for early users to generate high yield (APY) while waiting for public beta launch.",
     "items": [
       {
         "name": "Candle Metaverse",
@@ -87,7 +83,8 @@
     "socialMedia": {
       "github": "https://github.com/CandlePlatforms",
       "twitter": "https://twitter.com/Candle_Labs ",
-      "discord": "https://discord.gg/candle"
+      "discord": "https://discord.gg/candle",
+      "instagram": "https://instagram.com/candle_labs"
     }
   }
 }
